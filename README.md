@@ -9,10 +9,7 @@ This project implements a **K-Means Clustering Algorithm** to group customers of
 - [Process](#process)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -22,7 +19,7 @@ In this project, we use the K-Means clustering algorithm to analyze and segment 
 
 The dataset consists of customer purchase history, including details like transaction amounts, frequency of purchases, and types of products purchased.
 
-- **Dataset Source**: [Provide link to dataset or explain where it comes from]
+- **Dataset Source**: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 - **Main Features**:
   - Customer ID
   - Total amount spent
