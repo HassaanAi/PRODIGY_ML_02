@@ -62,5 +62,5 @@ To run this project, you will need the following dependencies:
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/HassaanAi/customer-segmentation-kmeans.git
-cd customer-segmentation-kmeans
+git clone https://github.com/HassaanAi/PRODIGY_ML_02.git
+cd PRODIGY_ML_02
